@@ -53,6 +53,14 @@ abbr,acronym { border:0;
 strong {font-weight: bold;}
 em {font-style: italic;}
 abbr {border-bottom: 1px dotted rgb(79, 74, 75);}
+code {
+    background-color: rgb(240,240,240);
+    padding: 1px 3px;
+    margin: -1px -3px;
+    border-radius: 3px;
+    font-family: "Andale Mono", "Courier New", Courier, monospace;
+    font-size: .9rem;}
+
 
 /* "responsive" */
 img {max-width:100%;

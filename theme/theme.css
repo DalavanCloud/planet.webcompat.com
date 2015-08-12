@@ -5,7 +5,7 @@ Web site started on November 2013
 Because we love the Web.
 
 You said we suck at design, be our guest
-https://github.com/miketaylr/planet.webcompat.com
+https://github.com/webcompat/planet.webcompat.com
 */
 
 /*# RESET STYLE TO BE REMOVED*/
@@ -99,7 +99,7 @@ h1 {
 	color: rgb(30,30,30);
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
 	font-weight: 200;
-	font-size: 1.2rem;  
+	font-size: 1.2rem;
 	background-color: rgb(255,200,41);}
 
 /* Each article */
@@ -113,7 +113,7 @@ article.news {
 
 h3.posttitle a {
     font-family: "DIN", "Helvetica Neue", Helvetica, sans-serif;
-    font-weight: 300;    
+    font-weight: 300;
 	font-size: 1.6rem;
 	text-decoration: none;
 	color: rgb(40,40,40);
@@ -158,7 +158,7 @@ article pre {
 
 /* Meta */
 
-.meta {	
+.meta {
     font-size:.8rem;
     padding: 1rem 1rem 1rem 0;
     font-family: "Helvetica Neue", Helvetica, sans-serif;

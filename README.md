@@ -5,7 +5,7 @@ This repository holds the code that powers http://planet.webcompat.com, a "Plane
 ## Building
 
 ```
-git clone git@github.com:miketaylr/planet.webcompat.com.git
+git clone git@github.com:webcompat/planet.webcompat.com.git
 cd planet.webcompat.com
 git submodule init && git submodule update
 python venus/planet.py config.ini
@@ -18,6 +18,6 @@ The generated assets will be in `output/`.
 
 ## Contributing
 
-If you'd like to add your blog or feed for a "webcompat" tag (or similar), send a pull request updating the config.ini in the [appropriate place](https://github.com/miketaylr/planet.webcompat.com/blob/master/config.ini#L22).
+If you'd like to add your blog or feed for a "webcompat" tag (or similar), send a pull request updating the config.ini in the [appropriate place](https://github.com/webcompat/planet.webcompat.com/blob/master/config.ini#L22).
 
 Pull requests are also welcome for other aspects of the site, e.g., theme improvements.

@@ -42,7 +42,7 @@
             </time>
           </span>
           <xsl:text>&#10;</xsl:text>
-          <span class="source">planet.webcompat.com - <a href="https://github.com/miketaylr/planet.webcompat.com/">code</a>
+          <span class="source">planet.webcompat.com - <a href="https://github.com/webcompat/planet.webcompat.com">code</a>
           </span>
           <xsl:text>&#10;</xsl:text>
         </footer>
